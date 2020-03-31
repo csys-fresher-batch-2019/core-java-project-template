@@ -33,7 +33,7 @@ Note: Test whether build is successful.
 
 #### Step 4: Update pom.xml and commit the files and push to github
 
-* Update groupId, artificatId, name based on your project.
+* Update groupId, artifactId and name based on your project.
 ```code
  <groupId>com.naresh</groupId>
   <artifactId>myapp-core</artifactId>
