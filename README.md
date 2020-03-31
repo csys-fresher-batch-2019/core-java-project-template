@@ -25,6 +25,7 @@ mvn install
 (or)
 ```
 Run As -> Maven Install 
+```
 Note: Test whether build is successful.
 
 #### Step 3.1 JRE Error
@@ -33,17 +34,18 @@ Note: Test whether build is successful.
 #### Step 4: Update pom.xml and commit the files and push to github
 
 * Update groupId, artificatId, name based on your project.
-```
+```code
  <groupId>com.naresh</groupId>
-  <artifactId>myapp-core-naresh</artifactId>
+  <artifactId>myapp-core</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>myapp-core</name>
   ```
   to
   ```
  <groupId>com.prabhu</groupId>
-  <artifactId>bankapp-core-naresh</artifactId>
+  <artifactId>bankapp-core</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>bankapp-core</name>
   ```
   
+
